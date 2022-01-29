@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+i am making video games, programs([Ex1][level editor], [Ex2][latxt]), sometimes also websites([Ex1][mypage], [Ex2][dnd]) and apps(coming soon, if i am not busy with point 3 from my todo list). 
+
+I participate irregularly at GameJams like the [Ludum Dare][ld]([Ex1][ld g1], [Ex2][ld g2]), the [0h-Game Jam][0h]([Ex1][0h g1], [Ex2][0h g2]) and others.
+Since 2020 i also compete in the yearly [Advent of Code][aoc] and try to catch up with the past years in the other 11 months of the year.
+
+In my free time i  watch anime(Haikyuu, Demon Slayer, Akame ga Kill, ...), play dnd(human enchanter) and yugioh(ice barrier, blackwings), drink some tea(aged tieguanyin, ...) and play video games(Celeste, Minecraft, Pokemon, ...). But i enjoy old games as well, i even bought and modded a [gameboy][gameboy] with a new screen, rechargeable battery pack and tiny blue led(not in the picture).  Recently i also got into 3d-printing and miniature painting.
+
+---
+
 #### TODO
 
 - [ ] Write a ~~good~~ Readme
@@ -7,7 +16,7 @@
 - [ ] Not doing any of this and procrastinating
 - [x] Drink tea
 
-#### ⚙️ I think i am good at
+#### ⚙️ I am comfortable with
 
 <span>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -46,3 +55,7 @@
   [texture packer]: https://github.com/PhoenixofForce/TexturePacker
   [latxt]: https://github.com/PhoenixofForce/LaTxT
   
+  [mypage]: https://phoenixofforce.github.io
+  [dnd]: https://phoenixofforce.github.io/DND_Utils/
+  
+  [gameboy]: https://twitter.com/PhoenixofForce/status/1408771078500069380  
